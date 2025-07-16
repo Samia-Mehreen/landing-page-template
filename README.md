@@ -1,1 +1,1 @@
-# landing-page-template
+landing page template using different component of bootstrap 
